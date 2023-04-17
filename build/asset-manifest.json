@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/symptom-checker/static/css/main.5488aaf0.chunk.css",
+    "main.js": "/symptom-checker/static/js/main.2327d2c8.chunk.js",
+    "main.js.map": "/symptom-checker/static/js/main.2327d2c8.chunk.js.map",
+    "runtime-main.js": "/symptom-checker/static/js/runtime-main.3c79473f.js",
+    "runtime-main.js.map": "/symptom-checker/static/js/runtime-main.3c79473f.js.map",
+    "static/js/2.19b8374b.chunk.js": "/symptom-checker/static/js/2.19b8374b.chunk.js",
+    "static/js/2.19b8374b.chunk.js.map": "/symptom-checker/static/js/2.19b8374b.chunk.js.map",
+    "index.html": "/symptom-checker/index.html",
+    "precache-manifest.523b1b2fc1e91303643830b46fa1257c.js": "/symptom-checker/precache-manifest.523b1b2fc1e91303643830b46fa1257c.js",
+    "service-worker.js": "/symptom-checker/service-worker.js",
+    "static/css/main.5488aaf0.chunk.css.map": "/symptom-checker/static/css/main.5488aaf0.chunk.css.map",
+    "static/js/2.19b8374b.chunk.js.LICENSE.txt": "/symptom-checker/static/js/2.19b8374b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/symptom-checker/static/media/logo.7c583c79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c79473f.js",
+    "static/js/2.19b8374b.chunk.js",
+    "static/css/main.5488aaf0.chunk.css",
+    "static/js/main.2327d2c8.chunk.js"
+  ]
+}
