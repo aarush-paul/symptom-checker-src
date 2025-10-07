@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/symptom-checker/static/css/main.2b4c7543.css",
-    "main.js": "/symptom-checker/static/js/main.8081211d.js",
-    "static/media/logo.svg": "/symptom-checker/static/media/logo.bfb25d07b8ca101ff311ff4a51616e2a.svg",
-    "index.html": "/symptom-checker/index.html",
-    "main.2b4c7543.css.map": "/symptom-checker/static/css/main.2b4c7543.css.map",
-    "main.8081211d.js.map": "/symptom-checker/static/js/main.8081211d.js.map"
+    "main.css": "/symptom-checker-src/static/css/main.2b4c7543.css",
+    "main.js": "/symptom-checker-src/static/js/main.b320f0fb.js",
+    "static/media/logo.svg": "/symptom-checker-src/static/media/logo.bfb25d07b8ca101ff311ff4a51616e2a.svg",
+    "index.html": "/symptom-checker-src/index.html",
+    "main.2b4c7543.css.map": "/symptom-checker-src/static/css/main.2b4c7543.css.map",
+    "main.b320f0fb.js.map": "/symptom-checker-src/static/js/main.b320f0fb.js.map"
   },
   "entrypoints": [
     "static/css/main.2b4c7543.css",
-    "static/js/main.8081211d.js"
+    "static/js/main.b320f0fb.js"
   ]
 }
